@@ -1,0 +1,12 @@
+# Private drafts, old versions and review copies
+archive/
+
+# LaTeX build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
