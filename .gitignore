@@ -10,3 +10,6 @@ archive/
 *.toc
 *.vrb
 *.synctex.gz
+
+# LaTeX sources (kept private)
+*.tex

@@ -120,15 +120,8 @@ Siren detection and sound-direction patents exist (mostly for autonomous driving
 ## Repository layout
 
 ```
-slides/     Beamer source and PDF of the presentation, with use-case photos
+slides/     The presentation (PDF) and the use-case photos
 research/   Research brief: problem validity, existing systems, literature, Indian conditions
-```
-
-Both documents are LaTeX. To rebuild them with [Tectonic](https://tectonic-typesetting.github.io/):
-
-```bash
-cd slides   && tectonic honksense.tex
-cd research && tectonic honksense_research.tex
 ```
 
 ## Team
