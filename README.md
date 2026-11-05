@@ -120,7 +120,7 @@ Siren detection and sound-direction patents exist (mostly for autonomous driving
 ## Repository layout
 
 ```
-slides/     The presentation (PDF) and the use-case photos
+slides/     The presentation (PDF)
 research/   Research brief: problem validity, existing systems, literature, Indian conditions
 ```
 
@@ -132,7 +132,7 @@ research/   Research brief: problem validity, existing systems, literature, Indi
 
 Full references are at the end of the presentation and the research brief.
 
-Use-case photos are from Wikimedia Commons and keep their original licences:
+Use-case photos in the presentation are from Wikimedia Commons and keep their original licences:
 
 - Ambulance, Kolkata: Biswarup Ganguly (CC BY 3.0)
 - Two-wheeler traffic, Pune: Amityadav8 (public domain)

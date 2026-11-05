@@ -13,3 +13,6 @@ archive/
 
 # LaTeX sources (kept private)
 *.tex
+
+# Slide images (kept private)
+slides/img/
