@@ -5,8 +5,8 @@ Directional alerts for the horns and sirens that matter. Silence for everything 
 
 Honk-Sense is a concept we submitted to the **HCoE Mobility Innovation Ideathon 2026** (Hyundai), under Topic 1: *India-Smart Interaction*, Track A.
 
-- 📊 **Presentation:** [`slides/Honksense.pdf`](slides/Honksense.pdf)
-- 📄 **Research brief:** [`research/Honksense_research.pdf`](research/Honksense_research.pdf)
+- 📊 **Presentation:** [`slides/Honk-Sense.pdf`](slides/Honk-Sense.pdf)
+- 📄 **Research brief:** [`research/Honk-Sense_research.pdf`](research/Honk-Sense_research.pdf)
 
 ---
 
