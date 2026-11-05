@@ -5,8 +5,8 @@ Directional alerts for the horns and sirens that matter. Silence for everything 
 
 Honk-Sense is a concept we submitted to the **HCoE Mobility Innovation Ideathon 2026** (Hyundai), under Topic 1: *India-Smart Interaction*, Track A.
 
-- 📊 **Presentation:** [`slides/Honk-Sense.pdf`](slides/Honk-Sense.pdf)
-- 📄 **Research brief:** [`research/Honk-Sense_research.pdf`](research/Honk-Sense_research.pdf)
+- **Presentation:** [`slides/Honk-Sense.pdf`](slides/Honk-Sense.pdf)
+- **Research brief:** [`research/Honk-Sense_research.pdf`](research/Honk-Sense_research.pdf)
 
 ---
 
@@ -34,10 +34,10 @@ Existing systems don't close this gap. Mirrors depend on attention, ultrasonic s
 
 Small exterior microphones and an on-board AI **classify** every road sound, **locate** where it comes from, and **decide** whether the people inside need to know.
 
-- 🚑 **Ambulance behind?** The music dips and a rear chime plays: *"Ambulance behind, keep left."*
-- 🏍️ **Bike honking in the blind spot?** A chime from that side, plus an arrow on the cluster.
-- 🚗 **Routine honking in a jam?** Nothing. The cabin stays calm.
-- 📡 **Fleet relay:** cars that hear a siren warn Hyundai cars further ahead on the same road.
+- **Ambulance behind?** The music dips and a rear chime plays: *"Ambulance behind, keep left."*
+- **Bike honking in the blind spot?** A chime from that side, plus an arrow on the cluster.
+- **Routine honking in a jam?** Nothing. The cabin stays calm.
+- **Fleet relay:** cars that hear a siren warn Hyundai cars further ahead on the same road.
 
 > Voice assistants understand what you say. Honk-Sense understands what the road is saying.
 
@@ -90,13 +90,13 @@ The chime plays from the speaker nearest the sound source, so the driver's ears 
 
 | Situation | Mirrors | Dashcam | Ultrasonic | Radar BSM | Camera ADAS | **Honk-Sense** |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-| Ambulance hidden in traffic | – | – | – | – | – | ✅ |
-| Horn behind a blind turn | – | – | – | – | – | ✅ |
-| Which side a horn came from | – | – | – | – | – | ✅ |
-| Honking bike in blind spot | ~ | – | – | ✅ | – | ✅ |
-| Silent car in blind spot | ~ | – | – | ✅ | – | – |
-| Parking, low-speed obstacles | ~ | – | ✅ | – | ~ | – |
-| Lane departure, car ahead | – | – | – | – | ✅ | – |
+| Ambulance hidden in traffic | – | – | – | – | – | Yes |
+| Horn behind a blind turn | – | – | – | – | – | Yes |
+| Which side a horn came from | – | – | – | – | – | Yes |
+| Honking bike in blind spot | Partly | – | – | Yes | – | Yes |
+| Silent car in blind spot | Partly | – | – | Yes | – | – |
+| Parking, low-speed obstacles | Partly | – | Yes | – | Partly | – |
+| Lane departure, car ahead | – | – | – | – | Yes | – |
 
 Honk-Sense is not a replacement for these systems. It covers what they can't: sound that arrives before line of sight.
 
